@@ -53,7 +53,7 @@ export function cardHtml(assets: Assets) {
     `<main class="card">
       <div class="name">Sam Magee</div>
       <div class="title">Senior Software Engineer</div>
-      <p class="bio">Hey, my name is ${avatar(assets)}<span class="strong">Sam</span>! I'm a senior software engineer at ${logo(assets)}<span class="strong">Vanta</span>, building compliance and trust software for the future.</p>
+      <p class="bio">Hey, my name is ${avatar(assets)}<span class="strong">Sam</span>! I'm a senior software engineer at ${logo(assets)}<span class="strong">Vanta</span>, helping businesses build and prove trust.</p>
     </main>`
   )
 }
