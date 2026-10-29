@@ -10,7 +10,7 @@ export const SOCIAL_CARD = {
   url: `${SITE_URL}images/social/card.png`,
   width: '1200',
   height: '630',
-  alt: "Sam Magee, Senior Software Engineer. Hey, my name is Sam! I'm a senior software engineer at Vanta, building compliance and trust software for the future.",
+  alt: "Sam Magee, Senior Software Engineer. Hey, my name is Sam! I'm a senior software engineer at Vanta, helping businesses build and prove trust.",
 }
 
 export function serializeJsonLd(data: unknown) {
