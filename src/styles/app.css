@@ -247,6 +247,14 @@
     line-height: 1.65;
   }
 
+  p,
+  li,
+  blockquote,
+  figcaption,
+  dd {
+    text-wrap: pretty;
+  }
+
   a,
   .link-dotted {
     position: relative;
