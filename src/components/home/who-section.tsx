@@ -21,9 +21,9 @@ export function WhoSection() {
           <InlineAvatar className="self-center" />
           <span>Sam</span>
         </span>
-        ! I&apos;m a senior software engineer at <VantaLink />, helping
-        businesses build and prove trust. I design and build software that makes
-        complex work feel simple.
+        ! I&apos;m a software engineer at <VantaLink />, helping businesses
+        build and prove trust. I design and build software that makes complex
+        work feel simple.
       </p>
       <p className="mt-4 text-gray-1100">
         Previously, I worked at <CompanyStack companies={PREVIOUS} />.
