@@ -17,7 +17,7 @@ export function Home({
   return (
     <>
       <HomeHead />
-      <SiteLayout>
+      <SiteLayout fit>
         <SiteHeader />
         <main>
           <WhoSection />
