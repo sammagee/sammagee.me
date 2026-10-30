@@ -1,8 +1,8 @@
 import { NAME, SITE_URL, SOCIAL_CARD, X_HANDLE } from '@/lib/site'
 
-export const TITLE = 'Sam Magee – Senior Software Engineer at Vanta'
+export const TITLE = 'Sam Magee – Software Engineer at Vanta'
 export const DESCRIPTION =
-  'Sam Magee is a senior software engineer at Vanta, helping businesses build and prove trust. Previously at Uber, Marqeta, and Principal.'
+  'Sam Magee is a software engineer at Vanta, helping businesses build and prove trust. Previously at Uber, Marqeta, and Principal.'
 export const PROFILES = [
   'https://github.com/sammagee',
   'https://www.linkedin.com/in/sammagee',
